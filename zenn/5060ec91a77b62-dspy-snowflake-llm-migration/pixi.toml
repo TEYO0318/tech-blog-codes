@@ -1,0 +1,15 @@
+[workspace]
+authors = ["TEYO0318 <106081695+TEYO0318@users.noreply.github.com>"ma]
+channels = ["conda-forge"]
+name = "dspy"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+handler = "python handler.py"
+[dependencies]
+datasets = ">=4.7.0,<5"
+dspy = ">=3.0.2,<4"
+python-dotenv = ">=1.2.2,<2"
+snowflake-snowpark-python = ">=1.47.0,<2"
+marimo = ">=0.21.1,<0.22"

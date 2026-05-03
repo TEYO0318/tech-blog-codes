@@ -1,0 +1,123 @@
+{
+  "classify.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "title": "Worthless",
+        "content": "Purchased this item for a dog heating pad. The temp was below 20 degrees for hours but it never turned on.",
+        "reasoning": "]\nThe reviewer explicitly states that the item is \"worthless\" and that it \"never turned on\" despite the cold temperature, indicating a negative experience and dissatisfaction with the product.",
+        "label": "0"
+      },
+      {
+        "augmented": true,
+        "title": "Get Mushrooms Demystified",
+        "content": "Most people buy this book simply because it is an Audubon Society book. (I made this mistake) It seems the author left out important information in an attempt to keep the book field guide sized. By including a few species from every part of the country, the author made this book of little use to anyone who lives in one place. On the other hand, it does have a lot of pictures... Even if they are small, hopelessly jumbled, and labeled with made-up names. (seriously) This book is for people that have some spare money and want to expand their library. I would highly recommend a couple of other books instead: Mushrooms Demystified (The comprehensive text for beginners and experts alike), and All the Rain Promises and More (The field guide).",
+        "reasoning": "]\nThe reviewer expresses dissatisfaction with the book, stating that it lacks important information and is not useful for people who live in one place. They also mention that the pictures are small and jumbled, and the names are made-up. The reviewer recommends other books instead, indicating a negative sentiment.",
+        "label": "0"
+      },
+      {
+        "augmented": true,
+        "title": "I'd rather take it in my \"Cavern\" than...",
+        "content": "...have to watch this \"film\" again. Sure, the notions of claustrophobia and super-natural \"beings\" who take pleasure in stalking & consuming human flesh, combine to make interesting, or at least, entertaining movies. Not so in this wanna-be-travesty. I would rather have been the actress getting raped in the last scene (for what purpose is beyond mortal comprehension!), than have anyone I even remotely care about waste 81 minutes of their life, as I did, watching this...this...thing. Do not pass go. Do not waste your well-earned $0.02 on this rental, and may Allah have mercy upon your soul if you purchase this blasphemous bag of tripe. It's not even worth the bar-coded sticker Hollywood Video was forced at gun-point to attach to it so unfortunate, naieve people like me could actually rent it. Run Forrest, run!",
+        "reasoning": "]\nThe reviewer expresses strong negative sentiments about the film, describing it as a \"wanna-be-travesty\" and a \"blasphemous bag of tripe.\" They also state that they would rather not have anyone they care about waste time watching it, indicating a very negative opinion.",
+        "label": "0"
+      },
+      {
+        "title": "All - just a man",
+        "content": "I agree that everything that we believe in should be based and studied on a Biblical basis and its foundation. I disagree with several who say that Rick Warren built most of his \"purpose-driven\" principles on the \"wisdom of the world\" and not on God's word. Much of the \"wisdom of the world\" is based on Biblical Christian principles, and they don't even know it! Why should we accept James Sunquist? He's just a man just like Rick Warren. Sounds like jealousy to me. Demeaning another person as this author has is NOT healthy for the church or the kingdom of God. Even though I've heard Rick Warren speak and feel he is a godly person, NO PERSON is to be worshipped and put above God.",
+        "label": "0"
+      },
+      {
+        "title": "The World of Mantovani's Music Never Ends",
+        "content": "This is the latest reissue on CD by Vocalion of two of the great maestro's recordings from the late sixties. It contains spectacular Hollywood film music, most notably the dazzling theme from Zorba the Greek and the striking Chaplin theme from the Countess of Hong Kong made famous by Petula Clark, \"Love, This is My Song\". It is one of Mantovani's best arrangements, rivaling the Chaplin theme \"Limelight\" which became a \"golden hit\" for the master of strings a dozen years earlier. The World CD contains a few gems as well, including \"Where is Love,\" \"Quentin's Theme\" from the popular Dark Shadows television soap opera, and the Andy Williams hit, \"A Time for Us\", the Theme from Romeo and Juliet. If fans and new listeners want to celebrate Mantovani's 100th birthday on November 5, 2005, acquire this two-set, and the gift of happiness and beautiful music will be all theirs.",
+        "label": "1"
+      },
+      {
+        "title": "Purchase of Merck Manual",
+        "content": "Ordered online with no problems. Confirmation received. Book arrived within 2 weeks.",
+        "label": "1"
+      },
+      {
+        "title": "works like a charm",
+        "content": "works like a charm, exactly how i hoped it would. my son is now 4 months and i still use it to breastfeed and its awesome for tummy time.",
+        "label": "1"
+      },
+      {
+        "title": "Disappointed",
+        "content": "Been a fan for a while. True the first album is uniqueand no matter what this group pulls out of their hats,they'll never top it . It was shear perfection and one of a kind.Still la verdad of LA VERDAD is that it is not even worth buying asa bootleg in a corner of Jackson Heights for $3.00.I'm madley disappointed. I kept telling myself and others,they've been quiet, you'll see, they'll blow allthis recent crap out the water. I especially was expectingat least one Reggaeton anthem. MAN! What a let down.The boys got the skills! I hope they get wind of this and tryand get the flavor back. I'll be looking out for the real FULANITO comeback, till then peace and skip this one.",
+        "label": "0"
+      },
+      {
+        "title": "The Best!!!",
+        "content": "This stuff is the best spray to use when you first get a piercing. I got my belly button pierced at a not too reputable place but I bought this and used it religiously and it never got infected. I've had it for a year already and its perfect. I had lots of friends that got their's done and it got infected but mine never did. So buy this if you plan on getting a piercing done. It's the best.",
+        "label": "1"
+      },
+      {
+        "title": "Don't buy",
+        "content": "Thius game is very unrealistic. If you are a serious racing simulation fan, it is a waste of your money!Graphics are ok, control is awful, car response is unrealistic. Sick with Grand Prix III.",
+        "label": "0"
+      },
+      {
+        "title": "wood end table",
+        "content": "this is a piece of junk. When I received it the side piece was broke. It took forever to get a new piece. When the new piece arrived I proceded to put this piece of junk together and found that the top was split. I would neither buy anything or recommend this company to anyone ever.",
+        "label": "0"
+      },
+      {
+        "title": "Exactly what my husband wanted.",
+        "content": "My husband was thrilled to get this for Christmas. He'd been looking in local athletic stores for a year & never could find it.",
+        "label": "1"
+      },
+      {
+        "title": "last good one",
+        "content": "This is a very good ac relaese , been a fan since i was a fetus and this and last temptation are hisbest since flush , everything in the 70's were classic , i miss that sound , the metal soundis getting old . he needs to get his old bandmates or any other hippies and go outand play real alice , we dont need any metal versions of early ac. buy all his stuff, hes great.so turn it up and rock on to the eyes of ac ....... mp\/bg",
+        "label": "1"
+      },
+      {
+        "title": "Just couldn't get into it",
+        "content": "I'm a pretty big fan of movies set in ancient history as well as ones that revolve around politics, science, and religion but I could not, for the life of me, get into this movie. I got so bored I ended up stopping it before it was over. I feel like the acting just wasn't filled with enough emotion.",
+        "label": "0"
+      },
+      {
+        "title": "CRAPPY HINGE TURNS PLAYER INTO PAPER WEIGHT",
+        "content": "The hinge design on this player sucks. There is one friction clutch on the left hinge, and just a guide on the right. As a result, the left hinge will spontaneously break leaving you with several hundred dollars worth of a paper weight.PIECE OF JUNK....DO NOT BUY!The engineers who designed that hinge are MORONS! (I hope they see this) I hope Polaroid fires you and I hope you suffer spontaneous breakage of products you spend your hard earned money on due to someone else's STUPID DESIGN.",
+        "label": "0"
+      },
+      {
+        "title": "SMALL AND NOT AS DESCRIBED!",
+        "content": "1st, this is not a \"Large\" Aquarium piece at all. 2nd, the measurements are more like 10.5\"x3\"x4 1\/4\", and 3rd, the coloring is NOTHING like the photo. The \"Rum\" words are barely made out, the green is very dark, not light, and the overall painting is dark and dismal, not that of any aquarium piece. I feel very taken by this listing, and am glad to be able to return. I would in no way recommend this unless you have a small aquarium, 10 gallons or less, and do not like color involved.",
+        "label": "0"
+      }
+    ],
+    "signature": {
+      "instructions": "Amazonレビューのタイトルと本文を分析し、感情ラベルを返す。",
+      "fields": [
+        {
+          "prefix": "Title:",
+          "description": "Amazonレビューのタイトル"
+        },
+        {
+          "prefix": "Content:",
+          "description": "Amazonレビューの本文"
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Label:",
+          "description": "レビューの感情を '1'(positive) または '0'(negative) で返す"
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.12",
+      "dspy": "3.0.1",
+      "cloudpickle": "3.1"
+    }
+  }
+}

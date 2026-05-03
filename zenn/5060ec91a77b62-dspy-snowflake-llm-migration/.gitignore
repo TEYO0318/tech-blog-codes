@@ -1,0 +1,11 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+.env
+*.pyc
+# marimoを開いたときに出るファイル
+*.py.json
+# データファイル
+*.parquet
+__marimo__/
+.pixi
