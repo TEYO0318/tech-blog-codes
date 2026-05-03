@@ -1,0 +1,8 @@
+// Snowflake接続情報
+// このファイルを terraform.tfvars にコピーして値を入力してください
+// cp terraform.tfvars.example terraform.tfvars
+organization_name  = ""
+account_name       = ""
+snowflake_user     = ""
+snowflake_role     = ""
+snowflake_password = ""
