@@ -1,5 +1,5 @@
 [workspace]
-authors = ["TEYO0318 <106081695+TEYO0318@users.noreply.github.com>"ma]
+authors = ["TEYO0318 <106081695+TEYO0318@users.noreply.github.com>"]
 channels = ["conda-forge"]
 name = "dspy"
 platforms = ["osx-arm64"]
