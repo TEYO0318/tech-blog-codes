@@ -1,0 +1,14 @@
+[workspace]
+authors = ["TEYO0318 <106081695+TEYO0318@users.noreply.github.com>"]
+channels = ["conda-forge"]
+name = "4bc323b42b0192-compare-world-polygons-with-their-specifications"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+qgis = ">=3.40.3,<4"
+libgdal-arrow-parquet = ">=3.10.2,<4"
+duckdb = ">=1.5.1,<2"
+overturemaps = ">=0.17.0,<0.18"
