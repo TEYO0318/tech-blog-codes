@@ -1,1 +1,1 @@
-../.shared/.github/pull_request_template.md
+../common_assets/.github/pull_request_template.md
